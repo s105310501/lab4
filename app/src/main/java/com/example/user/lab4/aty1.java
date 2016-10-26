@@ -1,4 +1,4 @@
-package aty1;
+package com.example.user.lab4;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class aty1  {
+public class aty1 extends Activity {
     Button btn;
     TextView t_drink;
     TextView t_suger;
